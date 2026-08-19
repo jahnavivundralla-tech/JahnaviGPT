@@ -154,7 +154,7 @@
                 "dependencies": [
                   {
                     "name": "lfx",
-                    "version": null
+                    "version": None
                   }
                 ],
                 "total_dependencies": 1
