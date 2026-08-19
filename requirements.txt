@@ -1,3 +1,2 @@
-langflow
 gradio
 duckduckgo_search
